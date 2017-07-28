@@ -39,7 +39,7 @@ function showScores() {
 }
 
 var questions = [
-    new Question("Which one is not an OOP language?", ["Java","C#","C++","c"],"C"),
+    new Question("Which one is not an OOP language?", ["Java","C#","C++","C"],"C"),
     new Question("Which language is used for styling web pages?", ["HTML","CSS","PHP","XML"],"CSS"),
     new Question("There are ____ main components of OOP", ["1","6","3","5"],"6"),
     new Question("Which language is used for web apps?", ["PHP","PYTHON","JavaScript","All"],"All"),
